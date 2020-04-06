@@ -4,6 +4,9 @@
 '''
 Lyssnar på MR Clock, multicast
 Publicerar till MQTT
+
+Listens to MrClock, multicast
+Publish to MQTT
 '''
 
 import socket
